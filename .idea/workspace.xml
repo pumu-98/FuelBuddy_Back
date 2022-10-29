@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea45e31e-a03b-484d-85e2-6eb56516354d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.vs/FuelQueManagement-Service/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/FuelQueManagement-Service/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/FuelQueManagement-Service/FileContentIndex/04166b3b-986d-4506-a431-ceaba98282e0.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/FuelQueManagement-Service/FileContentIndex/a853c6f6-1985-4856-ae96-e59286749063.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/FuelQueManagement-Service/FileContentIndex/baedffce-1c55-4aa3-8eef-dec3e22c03b5.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/FuelQueManagement-Service/FileContentIndex/f72865ed-2f11-440f-8349-157dac12fc55.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/FuelQueManagement-Service/v17/.futdcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/FuelQueManagement-Service/v17/.futdcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/FuelQueManagement-Service/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/FuelQueManagement-Service/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/fuelquemanagement-service.metadata.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/fuelquemanagement-service.metadata.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/ProjectEvaluation/fuelquemanagement-service.projects.v5.1" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ProjectEvaluation/fuelquemanagement-service.projects.v5.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/Controllers/FuelController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/Controllers/FuelController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/Controllers/FuelStationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/Controllers/FuelStationController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/Controllers/QueueController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/Controllers/QueueController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/Models/FuelStationModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/Models/FuelStationModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/Models/QueueModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/Models/QueueModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/Services/FuelStationService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/Services/FuelStationService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/Services/QueueService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/Services/QueueService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/bin/Debug/net6.0/FuelQueManagement-Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/bin/Debug/net6.0/FuelQueManagement-Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/bin/Debug/net6.0/FuelQueManagement-Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/bin/Debug/net6.0/FuelQueManagement-Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/FuelQueManagement-Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/ref/FuelQueManagement-Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/ref/FuelQueManagement-Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/refint/FuelQueManagement-Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/Debug/net6.0/refint/FuelQueManagement-Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/FuelQueManagement-Service.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/FuelQueManagement-Service.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/FuelQueManagement-Service.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/FuelQueManagement-Service.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuelQueManagement-Service/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/FuelQueManagement-Service/obj/staticwebassets.pack.sentinel" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2GUMvAYLoCHICANX9vV8vFL8DYc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea45e31e-a03b-484d-85e2-6eb56516354d" name="Changes" comment="" />
+      <created>1666438940505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666438940505</updated>
+      <workItem from="1666438944556" duration="36000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

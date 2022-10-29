@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NKQDfZw0x04bCfRQG7sqnygEdbWJnph07zfI1F5FN9w=",
+  "Source": "FuelQueManagement-Service",
+  "BasePath": "_content/FuelQueManagement-Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

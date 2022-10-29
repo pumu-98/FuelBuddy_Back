@@ -1,0 +1,12 @@
+﻿namespace FuelQueManagement_Service.Models
+{
+    public class DatabaseConnection
+    {
+        public string ConnectionString { get; set; } = null!;
+
+        public string DatabaseName { get; set; } = null!;
+
+        public string CollectionName { get; set; } = null!;
+
+    }
+}
